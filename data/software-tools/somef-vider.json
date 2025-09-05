@@ -3,14 +3,14 @@
   "@id": "https://w3id.org/everse/tools/somef-vider",
   "@type": "SoftwareApplication",
   "applicationCategory": {
-    "@id": "rs:ResearchInfrastructureSoftware",
-    "@type": "@id"
-  },
-  "description": "SOMEF Vider is a web application based on Vue.js and Flask to visualize the metadata retrieved from the SOMEF API.",
+      "@id": "rs:PrototypeTool",
+      "@type": "@id"
+    },
+  "description": "SOMEF Vider is a web application designed to visualize which metadata fields can be automatically retrieved from a software source code repository. It uses SOMEF (https://github.com/KnowledgeCaptureAndDiscovery/somef) as the main extraction tool.",
   "hasQualityDimension": { "@id": "dim:FAIRness", "@type": "@id" },
   "howToUse": ["command-line"],
   "isAccessibleForFree": true,
   "license": "https://spdx.org/licenses/MIT",
   "name": "SOMEF-Vider",
-  "url": "https://github.com/SoftwareUnderstanding/SOMEF-Vider"
+  "url": "https://somef.linkeddata.es/"
 }
