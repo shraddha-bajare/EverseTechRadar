@@ -3,9 +3,9 @@
   "@id": "https://w3id.org/everse/tools/auto-codemeta_generator",
   "@type": "SoftwareApplication",
   "applicationCategory": {
-      "@id": "rs:PrototypeTool",
-      "@type": "@id"
-    },
+    "@id": "rs:PrototypeTool",
+    "@type": "@id"
+  },
   "description": "This repository contains a (client-side) web application to automatically generate  Codemeta documents (aka. codemeta.json).",
   "hasQualityDimension": { "@id": "dim:FAIRness", "@type": "@id" },
   "howToUse": ["CI/CD", "command-line"],
