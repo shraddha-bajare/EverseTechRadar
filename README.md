@@ -1,4 +1,6 @@
-[![everse-logo]][everse-url] [![DOI][doi-badge]][doi-url]
+[![everse-logo]][everse-url]
+
+[![DOI][doi-badge]][doi-url]
 
 <!-- Badges links -->
 [everse-logo]: https://everse.software/images/logos/EOSCEverse_PosColour.svg "EVERSE project"
