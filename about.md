@@ -49,10 +49,11 @@ Note: if a tool is relevant to multiple tiers, it is placed only in the **lowest
 
 ## Contributing to the EVERSE Technology Radar
 
-Contributions and source code of the EVERSE Tech Radar are on
-GitHub: [EVERSE Tech Radar on GitHub](https://github.com/EVERSE-ResearchSoftware/TechRadar) and [EVERSE AOE Tech Radar fork](https://github.com/EVERSE-ResearchSoftware/aoe_technology_radar).
+Contributions and source code of the **EVERSE Tech Radar** are on GitHub:  
+👉 [EVERSE Tech Radar on GitHub](https://github.com/EVERSE-ResearchSoftware/TechRadar)  
+👉 [EVERSE AOE Tech Radar fork](https://github.com/EVERSE-ResearchSoftware/aoe_technology_radar)
 
-Please see our [contributing guidelines](CONTRIBUTING.md)
+Please see our 🛠️ [**contributing guidelines**](https://github.com/EVERSE-ResearchSoftware/TechRadar/blob/main/CONTRIBUTING.md)
 
 ## Curation team
 
