@@ -1,12 +1,12 @@
 {
-  "name": "everse-techradar",
+  "name": "skao-techwatch",
   "private": true,
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "techradar build",
-    "serve": "techradar serve",
+    "build": "techwatch build",
+    "serve": "techwatch serve",
     "lint-prettier:check": "prettier --check data/software-tools",
     "lint-prettier:fix": "prettier --write data/software-tools"
   },

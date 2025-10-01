@@ -1,10 +1,12 @@
-name: Build EVERSE Technology Radar
+name: Build SKAO Technology Watch
 
 on:
-  workflow_dispatch: # allows triggering the workflow manually
-  pull_request:
   push:
-    branches: ['main']
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: read
