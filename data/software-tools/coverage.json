@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Coverage",
+  "description": "A tool for measuring code coverage of Python programs. It monitors which parts of the code were executed and generates coverage reports.",
+  "url": "https://coverage.readthedocs.io",
+  "applicationCategory": "Development",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

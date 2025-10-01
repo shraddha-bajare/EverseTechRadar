@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "pytest-mock",
+  "description": "A thin wrapper around the mock package for easier use with pytest.",
+  "url": "https://github.com/pytest-dev/pytest-mock",
+  "applicationCategory": "Testing",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

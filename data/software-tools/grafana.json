@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Grafana",
+  "description": "An open-source visualization and analytics platform for time-series data, commonly used with Prometheus and other data sources.",
+  "url": "https://grafana.com",
+  "applicationCategory": "Visualization",
+  "hasQualityDimension": [
+    "Usability"
+  ],
+  "segment": "Infrastructure & Platform Engineering",
+  "ring": "Adopt"
+}

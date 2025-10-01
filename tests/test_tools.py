@@ -1,4 +1,3 @@
-# inspired by https://github.com/EVERSE-ResearchSoftware/indicators/blob/main/tests/test_dimensions_and_indicators.py
 from helpers import validate_json_files_using_schema
 
 

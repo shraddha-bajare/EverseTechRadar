@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Behavior-Driven Development (BDD)",
+  "description": "An extension of test-driven development that encourages collaboration between developers, QA, and business stakeholders through executable specifications.",
+  "url": "https://en.wikipedia.org/wiki/Behavior-driven_development",
+  "applicationCategory": "Testing",
+  "ring": "Adopt",
+  "segment": "Software engineering & development practices"
+}

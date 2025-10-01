@@ -1,2 +1,7 @@
 /* Use this file to optionally override global css styles and use with caution. */
 /* See README.md for hints and examples: https://github.com/AOEpeople/aoe_technology_radar/ */
+a:hover, .tag:hover, .blip:hover {
+  color: #D7266D !important;    /* Or any highlight color */
+  background-color: rgba(255, 255, 255, 0.05); /* Optional hover background */
+  transition: 0.2s ease;
+}

@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "pylint-junit",
+  "description": "A Pylint plugin that outputs results in JUnit-compatible XML format for integration with CI tools.",
+  "url": "https://github.com/PyCQA/pylint-junit",
+  "applicationCategory": "CodeQuality",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

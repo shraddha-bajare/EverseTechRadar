@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Confluence",
+  "description": "A collaboration and documentation platform that enables teams to create, organize, and share knowledge and project artifacts.",
+  "url": "https://www.atlassian.com/software/confluence",
+  "applicationCategory": "CollaborationAndProductivity",
+  "hasQualityDimension": [
+    "Usability"
+  ],
+  "segment": "Collaboration Platform",
+  "ring": "Adopt"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "pytest-bdd",
+  "description": "A BDD plugin for pytest that allows you to write tests in Gherkin syntax.",
+  "url": "https://github.com/pytest-dev/pytest-bdd",
+  "applicationCategory": "Testing",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

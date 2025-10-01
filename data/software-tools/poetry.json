@@ -1,25 +1,13 @@
 {
-  "@context": "https://w3id.org/everse/rs#",
-  "@id": "https://w3id.org/everse/tools/poetry",
-  "@type": "schema:SoftwareApplication",
+  "type": "SoftwareApplication",
   "name": "poetry",
   "description": "Python packaging and dependency management made easy",
   "url": "https://python-poetry.org/",
-  "isAccessibleForFree": true,
+  "applicationCategory": "Development",
   "hasQualityDimension": [
-    { "@id": "dim:Maintainability", "@type": "@id" },
-    { "@id": "dim:Sustainability", "@type": "@id" }
+    "Maintainability",
+    "Sustainability"
   ],
-  "applicationCategory": [
-    {
-      "@id": "rs:PrototypeTool",
-      "@type": "@id"
-    },
-    {
-      "@id": "rs:ResearchInfrastructureSoftware",
-      "@type": "@id"
-    }
-  ],
-  "howToUse": ["CI/CD", "command-line"],
-  "license": "https://spdx.org/licenses/MIT"
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
 }

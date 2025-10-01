@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Jupyter Notebook",
+  "description": "Jupyter Notebook is an open-source web application that allows users to create and share documents that contain live code, equations, visualizations, and narrative text.",
+  "url": "https://jupyter.org",
+  "applicationCategory": "Development",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

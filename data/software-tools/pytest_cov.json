@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "pytest-cov",
+  "description": "A plugin for pytest that produces coverage reports using the coverage.py library.",
+  "url": "https://github.com/pytest-dev/pytest-cov",
+  "applicationCategory": "Development",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

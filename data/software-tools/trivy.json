@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Trivy",
+  "description": "An open-source vulnerability scanner for container images, file systems, and source code repositories, helping detect security issues early in the CI/CD pipeline.",
+  "url": "https://github.com/aquasecurity/trivy",
+  "applicationCategory": "Security",
+  "hasQualityDimension": [
+    "Security"
+  ],
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

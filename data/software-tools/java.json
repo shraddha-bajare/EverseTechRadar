@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Java",
+  "description": "Java is a class-based, object-oriented programming language designed for portability and performance across distributed systems.",
+  "url": "https://www.oracle.com/java/",
+  "applicationCategory": "Development",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

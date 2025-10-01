@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "PyTango",
+  "description": "PyTango is a Python binding for the Tango Control System, used to build client/server control system applications for scientific and industrial environments.",
+  "url": "https://pytango.readthedocs.io",
+  "applicationCategory": "ControlSystemLibrary",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

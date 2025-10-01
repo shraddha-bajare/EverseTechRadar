@@ -1,0 +1,8 @@
+{
+  "type": "schema:SoftwareApplication",
+  "name": "Taranta",
+  "description": "Taranta is a web-based GUI framework designed for building control system dashboards in the Tango Controls ecosystem.",
+  "url": "https://gitlab.com/tango-controls/web/taranta",
+  "applicationCategory": "ControlSystemUIFramework",
+  "segment": "Software engineering & development practices"
+}

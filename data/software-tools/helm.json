@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Helm",
+  "description": "Helm is a package manager for Kubernetes that helps define, install, and upgrade complex Kubernetes applications using Helm charts.",
+  "url": "https://helm.sh",
+  "applicationCategory": "Development",
+  "hasQualityDimension": [
+    "Scalability"
+  ],
+  "segment": "Infrastructure & Platform Engineering",
+  "ring": "Adopt"
+}

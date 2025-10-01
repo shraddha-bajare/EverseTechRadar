@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Terraform",
+  "description": "An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently, supporting multiple cloud providers.",
+  "url": "https://www.terraform.io",
+  "applicationCategory": "Infrastructure",
+  "hasQualityDimension": [
+    "Reliability"
+  ],
+  "segment": "Infrastructure & Platform Engineering",
+  "ring": "Adopt"
+}

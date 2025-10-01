@@ -1,184 +1,56 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "EVERSE Research Software (RS) Tools Validation Schema",
-  "description": "Schema for validating software tool entries in the EVERSE Research Software context",
-  "type": "object",
-  "definitions": {
-    "applicationCategoryObject": {
-      "type": "object",
-      "properties": {
-        "@id": {
-          "type": "string",
-          "description": "Identifier for the application category",
-          "enum": [
-            "rs:AnalysisCode",
-            "rs:PrototypeTool",
-            "rs:ResearchInfrastructureSoftware"
-          ]
-        }
-      },
-      "required": [ "@id" ]
-    },
-    "qualityDimensionObject": {
-      "type": "object",
-      "properties": {
-        "@id": {
-          "type": "string",
-          "description": "Identifier for the quality dimension",
-          "enum": [
-            "dim:Compatibility",
-            "dim:FAIRness",
-            "dim:Flexibility",
-            "dim:Functional Suitability",
-            "dim:Interaction Capability",
-            "dim:Maintainability",
-            "dim:Performance Efficiency",
-            "dim:Reliability",
-            "dim:Safety",
-            "dim:Security",
-            "dim:Sustainability"
-          ]
-        }
-      },
-      "required": [ "@id" ]
-    }, 
-    
-"qualityIndicatorObject": {
+  "title": "Simplified Software Tool Schema",
+  "description": "Schema to validate simplified software tool entries",
   "type": "object",
   "properties": {
-    "@id": {
+    "type": {
+      "description": "The type of the software entity",
       "type": "string",
-      "description": "Identifier for the quality indicator",
-      "format": "uri"
-    }
-  },
-  "required": ["@id"]
-}
-  },
-  "properties": {
-    "@context": {
-      "description": "The JSON-LD context for term definitions",
-      "type": "string"
-    },
-    "@id": {
-      "description": "Unique identifier for the software tool",
-      "type": "string",
-      "format": "uri"
-    },
-    "@type": {
-      "description": "The type of the entity, typically schema:SoftwareApplication",
-      "type": [ "string", "array" ],
-      "items": {
-        "type": "string"
-      }
+      "enum": ["SoftwareApplication"]
     },
     "name": {
       "description": "The name of the software tool",
       "type": "string"
     },
     "description": {
-      "description": "A description of the software tool",
+      "description": "Description of the software tool",
       "type": "string"
     },
     "url": {
-      "description": "URL of the software tool",
+      "description": "URL for the software tool",
       "type": "string",
       "format": "uri"
     },
-    "identifier": {
-      "description": "An identifier for the software tool",
-      "type": [ "string", "array", "object" ],
-      "format": "uri"
-    },
-    "isAccessibleForFree": {
-      "description": "Whether the software is free to access",
-      "type": "boolean"
-    },
-    "license": {
-      "description": "License under which the software is released",
-      "type": [ "string", "array", "object" ],
-      "items": {
-        "type": "string",
-        "format": "uri"
-      }
-    },
     "applicationCategory": {
-      "description": "The category of the application",
-      "oneOf": [
-        { "$ref": "#/definitions/applicationCategoryObject" },
-        {
-          "type": "array",
-          "items": { "$ref": "#/definitions/applicationCategoryObject" }
-        }
-      ]
-    },
-    "author": {
-      "description": "The author(s) of the software",
-      "type": [ "string", "array", "object" ],
-      "items": {
-        "type": [ "string", "object" ]
-      }
-    },
-    "maintainer": {
-      "description": "The maintainer(s) of the software",
-      "type": [ "string", "array", "object" ],
-      "items": {
-        "type": [ "string", "object" ]
-      }
+      "description": "Category of the software application",
+      "type": "string"
     },
     "hasQualityDimension": {
-      "description": "Quality dimensions addressed by the tool",
-      "oneOf": [
-        { "$ref": "#/definitions/qualityDimensionObject" },
-        {
-          "type": "array",
-          "items": { "$ref": "#/definitions/qualityDimensionObject" }
-        }
-      ]
-    },
-    "hasQualityIndicator": {
-  "description": "Quality indicators addressed by the tool",
-  "oneOf": [
-    { "$ref": "#/definitions/qualityIndicatorObject" },
-    {
+      "description": "List of quality dimensions addressed",
       "type": "array",
-      "items": { "$ref": "#/definitions/qualityIndicatorObject" }
-    }
-  ]
-},
-    "howToUse": {
-      "description": "How the software is expected to be used",
-      "type": [ "string", "array" ],
-      "items": {
-        "type": "string",
-        "enum": [ "CI/CD", "command-line", "online-service" ]
-      }
-    },
-    "usedBy": {
-      "description": "Science cluster using the tool",
-      "type": [ "string", "array" ],
-      "items": {
-        "type": "string",
-        "enum": [ "ENVRI", "ESCAPE", "LS-RI", "PaNOSC", "SSHOC", "EOSC-Life" ]
-      }
-    },
-    "appliesToProgrammingLanguage": {
-      "description": "Programming languages the tool applies to",
-      "type": [ "string", "array" ],
       "items": {
         "type": "string"
       }
+    },
+    "ring": {
+      "description": "Technology adoption ring",
+      "type": "string",
+      "enum": ["Adopt", "Trial", "Hold"]
+    },
+    "segment": {
+      "description": "The segment where the tool is applied",
+      "type": "string"
     }
   },
   "required": [
-    "@context",
-    "@id",
+    "type",
     "name",
     "description",
-    "license",
     "url",
     "applicationCategory",
-    "hasQualityDimension"
+    "segment",
+    "ring"
   ],
   "additionalProperties": false
 }

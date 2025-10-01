@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "NumPy",
+  "description": "NumPy is the fundamental package for scientific computing with Python. It provides support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions.",
+  "url": "https://numpy.org",
+  "applicationCategory": "ScientificLibrary",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

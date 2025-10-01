@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Python",
+  "description": "Python is a high-level, interpreted programming language known for its readability, extensive libraries, and wide use in scientific computing, web development, and automation.",
+  "url": "https://www.python.org",
+  "applicationCategory": "Development",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

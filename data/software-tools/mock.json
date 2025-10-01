@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "mock",
+  "description": "A library for testing in Python that allows mocking and patching of objects during test execution.",
+  "url": "https://docs.python.org/3/library/unittest.mock.html",
+  "applicationCategory": "Testing",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

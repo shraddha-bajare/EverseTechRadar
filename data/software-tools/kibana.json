@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Kibana",
+  "description": "A data visualization dashboard for Elasticsearch, commonly used for log analytics, monitoring, and operational intelligence.",
+  "url": "https://www.elastic.co/kibana",
+  "applicationCategory": "Visualization",
+  "hasQualityDimension": [
+    "Observability"
+  ],
+  "segment": "Infrastructure & Platform Engineering",
+  "ring": "Adopt"
+}

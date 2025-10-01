@@ -1,0 +1,14 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Slack",
+  "description": "A communication platform for teams, enabling real-time messaging, file sharing, and integration with other development tools.",
+  "url": "https://slack.com",
+  "applicationCategory": [
+    "CollaborationAndProductivity"
+  ],
+  "hasQualityDimension": [
+    "Usability"
+  ],
+  "segment": "Collaboration Platform",
+  "ring": "Adopt"
+}

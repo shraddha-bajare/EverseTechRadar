@@ -1,0 +1,14 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Miro",
+  "description": "An online whiteboard and visual collaboration tool used for brainstorming, diagramming, and strategic planning across teams.",
+  "url": "https://miro.com",
+  "applicationCategory": [
+    "CollaborationAndProductivity"
+  ],
+  "hasQualityDimension": [
+    "Usability"
+  ],
+  "segment": "Collaboration Platform",
+  "ring": "Adopt"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "ReadTheDocs",
+  "description": "An open-source documentation hosting platform for software projects, automating builds from source repositories and publishing versioned documentation.",
+  "url": "https://readthedocs.org",
+  "applicationCategory": "Documentation",
+  "hasQualityDimension": [
+    "Maintainability"
+  ],
+  "segment": "Collaboration Platform",
+  "ring": "Adopt"
+}

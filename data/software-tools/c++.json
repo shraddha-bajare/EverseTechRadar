@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "C++",
+  "description": "C++ is a powerful, high-performance systems programming language with object-oriented and generic programming features.",
+  "url": "https://isocpp.org/",
+  "applicationCategory": "Development",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

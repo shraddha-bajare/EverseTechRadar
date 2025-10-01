@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Django",
+  "description": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+  "url": "https://www.djangoproject.com",
+  "applicationCategory": "WebFramework",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

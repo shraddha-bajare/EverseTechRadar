@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Cucumber",
+  "description": "Cucumber is a Behavior-Driven Development (BDD) testing tool that allows developers and testers to define application behavior in plain language using Gherkin syntax and execute those scenarios as automated tests.",
+  "url": "https://cucumber.io/",
+  "applicationCategory": "Testing",
+  "hasQualityDimension": [
+    "Testability"
+  ],
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

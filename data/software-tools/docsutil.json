@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "docutils",
+  "description": "A Python package for processing plaintext documentation into useful formats such as HTML or LaTeX, using reStructuredText.",
+  "url": "https://docutils.sourceforge.io/",
+  "applicationCategory": "Documentation",
+  "hasQualityDimension": [
+    "Maintainability"
+  ],
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

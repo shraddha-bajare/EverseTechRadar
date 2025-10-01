@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Jira",
+  "description": "An issue and project tracking tool for agile teams, supporting backlog management, sprint planning, and reporting.",
+  "url": "https://www.atlassian.com/software/jira",
+  "applicationCategory": "CollaborationAndProductivity",
+  "hasQualityDimension": [
+    "Efficiency"
+  ],
+  "segment": "Collaboration Platform",
+  "ring": "Adopt"
+}

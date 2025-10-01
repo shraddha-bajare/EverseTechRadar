@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "isort",
+  "description": "A Python utility/library to sort imports in the correct order and group them, helping maintain a consistent import layout across a codebase.",
+  "url": "https://github.com/PyCQA/isort",
+  "applicationCategory": "CodeQuality",
+  "hasQualityDimension": [
+    "Maintainability"
+  ],
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}

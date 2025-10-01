@@ -1,0 +1,12 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Prometheus",
+  "description": "Open-source systems monitoring and alerting toolkit, optimized for reliability and scalability of time-series metrics.",
+  "url": "https://prometheus.io",
+  "applicationCategory": "Monitoring",
+  "hasQualityDimension": [
+    "Reliability"
+  ],
+  "segment": "Infrastructure & Platform Engineering",
+  "ring": "Adopt"
+}

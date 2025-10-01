@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Test-Driven Development (TDD)",
+  "description": "A software development methodology in which tests are written before the code that needs to pass those tests, promoting simple design and refactoring.",
+  "url": "https://en.wikipedia.org/wiki/Test-driven_development",
+  "applicationCategory": "Testing",
+  "segment": "Software engineering & development practices",
+  "ring": "Adopt"
+}
