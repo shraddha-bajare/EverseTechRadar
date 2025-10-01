@@ -1,7 +1,7 @@
 {
-  "basePath": "/TechWatch",
-  "baseUrl": "https://shraddha-bajare.github.io/TechWatch",
-  "editUrl": "https://github.dev/shraddha-bajare/EverseTechRadar/blob/main/radar/{release}/{id}.md",
+  "basePath": "/SKAOTechWatch",
+  "baseUrl": "https://shraddha-bajare.github.io/SKAOTechWatch",
+  "editUrl": "https://github.dev/shraddha-bajare/SKAOTechWatch/blob/main/radar/{release}/{id}.md",
   "logoFile": "logo.svg",
   "jsFile": "",
   "toggles": {
