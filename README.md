@@ -1,6 +1,6 @@
 # SKAO Technology Watch
 
-The **SKAO Technology Watch** is a curated [catalog of _tools, platforms, and practices_](#technology-catalog) that support SKAO’s software engineering, infrastructure, and data-intensive operations. It includes a visual [Technology Radar Dashboard](#technology-radar-dashboard) that helps track the adoption status, relevance, and maturity of key technologies used across the SKAO Observatory.
+The **SKAO Technology Watch** is a curated [catalog of _tools, platforms, and practices_](#technology-catalog) that support SKAO’s software engineering, infrastructure, and data processing operations. It includes a visual [Technology Watch Dashboard](#technology-radar-dashboard) that helps track the adoption status and maturity of key technologies used across the SKAO Observatory.
 
 ---
 
@@ -21,7 +21,7 @@ Each item is reviewed and classified by SKAO engineers and contributors based on
 TBD
 ---
 
-## Technology Radar Dashboard
+## Technology Watch Dashboard
 Coming soon..
 ---
 

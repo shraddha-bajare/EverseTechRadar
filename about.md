@@ -14,11 +14,11 @@ Rather than attempting to cover every available tool, the watch highlights a cur
 
 TBD
 
-## Segments and Rings
+## Quadrants and Rings
 
-### Segments
+### Quadrants
 
-The watch is divided into four thematic **segments**, which reflect SKAO’s core areas of technological development:
+The watch is divided into four thematic **quadrants**, which reflect SKAO’s core areas of technological development:
 
 - **Software Engineering & Development Practices**  
   Tools, languages, and frameworks that support software engineering for scalable, maintainable, and testable softwares.
