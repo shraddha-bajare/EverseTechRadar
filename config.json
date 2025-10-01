@@ -21,7 +21,7 @@
   "border": "rgba(255, 255, 255, 0.1)",
   "tag": "rgba(255, 255, 255, 0.05)"
 },
-"segments": [
+"quadrants": [
   {
     "id": "Software engineering & development practices",
     "title": "Software engineering & development practices",
@@ -91,7 +91,7 @@
     }
   },
   "chart": {
-    "size": 1000,
+    "size": 700,
     "blipSize": 12
   },
   "social": [
@@ -120,8 +120,8 @@
   ],
   "labels": {
     "title": "SKAO Technology Watch",
-    "quadrant": "Segment",
-    "quadrantOverview": "Segments Overview",
+    "quadrant": "Quadrant",
+    "quadrantOverview": "Quadrants Overview",
     "zoomIn": "Zoom in",
     "filterByTag": "Filter by Tag",
     "footer": "SKAO Technology Watch is a continuous assessment and tracking initiative focused on identifying, evaluating, and integrating relevant tools, platforms, and practices that align with our strategic goals in software development, infrastructure, data processing, and team collaboration. This process ensures our engineering efforts remain modern, scalable, secure, and aligned with evolving technological standards.",

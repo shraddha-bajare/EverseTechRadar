@@ -68,7 +68,7 @@ def generate_markdown(json_ld_file, output_dir, quality_dimension=None):
     markdown_content = f"""---
 title: "{title}"
 ring: {ring}
-segment: {segment}
+quadrant: {segment}
 tags: {tags}
 ---
 {description}

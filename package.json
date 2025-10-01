@@ -5,8 +5,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "techwatch build",
-    "serve": "techwatch serve",
+    "build": "techradar build",
+    "serve": "techradar serve",
     "lint-prettier:check": "prettier --check data/software-tools",
     "lint-prettier:fix": "prettier --write data/software-tools"
   },
