@@ -1,0 +1,9 @@
+{
+  "type": "SoftwareApplication",
+  "name": "Docker Desktop",
+  "description": "Docker Desktop is an easy-to-install application for building and sharing containerized applications and microservices on Windows and macOS.",
+  "url": "https://www.docker.com/products/docker-desktop/",
+  "applicationCategory": "Containerization",
+  "segment": "Software engineering & development practices",
+  "ring": "Hold"
+}
